@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import OneNightAtJoseph from './OneNightAtJoseph.rar';
+import OneNightAtJoseph from './JosephRIGGED.fbx';
 
 
 function App() {
