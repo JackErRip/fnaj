@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import OneNightAtJoseph from './JosephRIGGED.fbx';
+
 
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="OneNightAtJoseph"
+          href="logo"
           target="_blank"
           rel="noopener noreferrer"
         >
