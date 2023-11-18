@@ -13,7 +13,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="Fnaj"
+          url="Fnaj"
           target="_blank"
           rel="noopener noreferrer"
         >
