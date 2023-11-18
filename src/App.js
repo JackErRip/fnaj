@@ -13,7 +13,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          url="https://drive.google.com/u/2/uc?id=1xt_FM9JO5WCtFkGzlpE5OV2jqnZnSJb9&export=download"
+          href="https://drive.google.com/u/2/uc?id=1xt_FM9JO5WCtFkGzlpE5OV2jqnZnSJb9&export=download"
           target="_blank"
           rel="noopener noreferrer"
         >
